@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 ---
   
 ### 📫 Contacts and how to reach me:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
+  <div/>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/valentin-kostadinov-6425a5232">
@@ -54,9 +60,7 @@ Feel free to contact me anytime!:wink:
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
   <div/>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
-  <div/>
+  
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkata033" />
   <div/>
