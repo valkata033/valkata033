@@ -45,9 +45,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
-  <div/>
   
 Feel free to contact me anytime!:wink:
   
@@ -57,7 +54,9 @@ Feel free to contact me anytime!:wink:
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
   <div/>
-    
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
+  <div/>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkata033" />
   <div/>
