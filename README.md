@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Feel free to contaxt me anytime!
-
   🌱 learning:
   <div id="some">
     <img src="https://img.shields.io/badge/Csharp-green?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge" />
@@ -35,14 +33,15 @@ Feel free to contaxt me anytime!
   
   📫 Contacts and how to reach me:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/valentin-kostadinov-6425a5232">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://github.com/valkata033">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.facebook.com/valentin.kostadinov.752">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-</div>
-
+  </div>
+  
+Feel free to contaxt me anytime!:wink:
