@@ -22,6 +22,7 @@ Feel free to contaxt me anytime!
     <img src="https://img.shields.io/badge/html5-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge" />
   <div/>
   
+  
   📫 Contacts and how to reach me:
 <div id="badges">
   <a href="your-linkedin-URL">
