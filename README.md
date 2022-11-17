@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ###:🌱: Learning:
+  🌱 Learning:
   <div id="some">
     <img src="https://img.shields.io/badge/Csharp-green?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge" />
     <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge"/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ---
   
-  ###:📫: Contacts and how to reach me:
+  📫 Contacts and how to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/valentin-kostadinov-6425a5232">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -52,7 +52,8 @@ Feel free to contact me anytime!:wink:
 ### :fire: My Stats :
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
-  <div/>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkata033" />
   <div/>
+   
+    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
+---
