@@ -24,10 +24,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="Css3 Badge" />
     <img src="https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge" />
     <img src="https://img.shields.io/badge/.net-red?style=for-the-badge&logo=.net&logoColor=white" alt=".Net Badge" />
-    <img src="https://img.shields.io/badge/microsoft%20sql%20server-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft Sql Server Badge" />
     <img src="https://img.shields.io/badge/mocha-yellow?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha Badge" />
     <img src="https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
     <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge" />
+    <img src="https://img.shields.io/badge/microsoft%20sql%20server-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft Sql Server Badge" />
   <div/>
   
 ---
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </a>
   </div>
   
-Feel free to contact me anytime!:wink:
+### Feel free to contact me anytime!:wink:
   
 ---
   
