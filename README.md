@@ -1,4 +1,4 @@
-###Hi there 👋
+### Hi there 👋
 
 <!--
 **valkata033/valkata033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###🌱 Learning:
+### 🌱 Learning:
   <div id="some">
     <img src="https://img.shields.io/badge/Csharp-green?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge" />
     <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge"/>
