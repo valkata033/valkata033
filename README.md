@@ -1,4 +1,4 @@
-Hi there 👋
+###Hi there 👋
 
 <!--
 **valkata033/valkata033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  🌱 Learning:
+###🌱 Learning:
   <div id="some">
     <img src="https://img.shields.io/badge/Csharp-green?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge" />
     <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge"/>
@@ -45,7 +45,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   </div>
-  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
+  <div/>
   
 Feel free to contact me anytime!:wink:
   
@@ -60,7 +62,4 @@ Feel free to contact me anytime!:wink:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkata033" />
   <div/>
     
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
-  <div/> 
 
