@@ -50,7 +50,8 @@ Feel free to contact me anytime!:wink:
 ---
   
 ### :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=valkata033
-  
+  <div>
+    https://github-readme-streak-stats.herokuapp.com/?user=valkata033
+  <div/>
   
   
