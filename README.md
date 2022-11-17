@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ---
   
 ### :fire: My Stats :
-  <div>
+  <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
   <div/>
   
