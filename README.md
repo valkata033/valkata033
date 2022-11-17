@@ -19,7 +19,17 @@ Feel free to contaxt me anytime!
 
   🌱 learning:
   <div id="some">
-    <img src="https://img.shields.io/badge/html5-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge" />
+    <img src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge"/>
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge" />
+    <img src="https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge" />
+    <img src="https://img.shields.io/badge/.net-red?style=for-the-badge&logo=.net&logoColor=white" alt=".Net Badge" />
+    <img src="https://img.shields.io/badge/microsoft%20sql%20server-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft Sql Server Badge" />
+    <img src="https://img.shields.io/badge/mocha-yellow?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha Badge" />
+    <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+    <img src="https://img.shields.io/badge/css3-purple?style=for-the-badge&logo=css3&logoColor=white" alt="Css3 Badge" />
+    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge" />
+    <img src="https://img.shields.io/badge/Csharp-green?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge" />
   <div/>
   
   
