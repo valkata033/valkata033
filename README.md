@@ -51,7 +51,7 @@ Feel free to contact me anytime!:wink:
   
 ### :fire: My Stats :
   <div>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
   <div/>
   
   
