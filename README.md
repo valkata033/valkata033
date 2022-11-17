@@ -54,6 +54,7 @@ Feel free to contact me anytime!:wink:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkata033" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkata033" />
   <div/>
-   
+  <div>
     <img src="https://komarev.com/ghpvc/?username=valkata033&style=flat-square&color=blue" alt=""/>
+  <div/> 
 ---
