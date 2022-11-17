@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge" />
   <div/>
   
+---
   
   📫 Contacts and how to reach me:
 <div id="badges">
@@ -44,4 +45,12 @@ Here are some ideas to get you started:
   </a>
   </div>
   
-Feel free to contaxt me anytime!:wink:
+Feel free to contact me anytime!:wink:
+  
+---
+  
+### :fire: My Stats :
+  https://github-readme-streak-stats.herokuapp.com/?user=valkata033
+  
+  
+  
