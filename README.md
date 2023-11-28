@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/microsoft%20sql%20server-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft Sql Server Badge" />
     <img src="https://img.shields.io/badge/ASP.NET-black?style=for-the-badge&logo=.Net&logoColor=white" alt="Microsoft Sql Server Badge" />
     <img src="https://img.shields.io/badge/React-orange?style=for-the-badge&logo=React&logoColor=white" alt="Microsoft Sql Server Badge" />
+    <img src="https://img.shields.io/badge/MSSQL-purple?style=for-the-badge&logo=MYSQL&logoColor=white" alt="Microsoft Sql Server Badge" />
   <div/>
   
 ---
